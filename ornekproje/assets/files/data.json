@@ -1,0 +1,90 @@
+{
+  "urunler": [
+    {
+      "id": 1,
+      "kategori": 1,
+      "isim": "Kiraz",
+      "resim": "assets/images/kiraz.jpg"
+    },
+    {
+      "id": 2,
+      "kategori": 1,
+      "isim": "Elma",
+      "resim": "assets/images/elma.jpg"
+    },
+    {
+      "id": 4,
+      "kategori": 1,
+      "isim": "Cennet Hurması",
+      "resim": "assets/images/hurma.jpg"
+    },
+    {
+      "id": 5,
+      "kategori": 2,
+      "isim": "Dolma",
+      "resim": "assets/images/dolma.jpg"
+    },
+    {
+      "id": 6,
+      "kategori": 2,
+      "isim": "Menemen",
+      "resim": "assets/images/menemen.jpg"
+    },
+    {
+      "id": 7,
+      "kategori": 1,
+      "isim": "Erik",
+      "resim": "assets/images/erik.jpg"
+    },
+    {
+      "id": 8,
+      "kategori": 2,
+      "isim": "Omlet",
+      "resim": "assets/images/omlet.jpg"
+    },
+    {
+      "id": 9,
+      "kategori": 1,
+      "isim": "Çağla",
+      "resim": "assets/images/cagla.jpg"
+    },
+    {
+      "id": 15,
+      "kategori": 2,
+      "isim": "Cacık",
+      "resim": "assets/images/cacik.jpg"
+    },
+    {
+      "id": 16,
+      "kategori": 3,
+      "isim": "Süt",
+      "resim": "assets/images/sut.jpg"
+    },
+    {
+      "id": 19,
+      "kategori": 3,
+      "isim": "Çay",
+      "resim": "assets/images/cay.jpg"
+    },
+    {
+      "id": 20,
+      "kategori": 3,
+      "isim": "Limonata",
+      "resim": "assets/images/limonata.jpg"
+    }
+  ],
+  "kategoriler": [
+    {
+      "id": 1,
+      "isim": "Meyveler"
+    },
+    {
+      "id": 2,
+      "isim": "Yemekler"
+    },
+    {
+      "id": 3,
+      "isim": "İçecekler"
+    }
+  ]
+}
